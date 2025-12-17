@@ -40,3 +40,12 @@ Recommendations
     Quality Control: Audit the "Home" category and products priced above $100 to investigate the high return volumes.
 
     Senior Engagement: Re-evaluate the user interface (UI) or product sizing guides to better cater to the 50+ age group, who show the highest return and churn rates.
+
+
+Project Details:
+
+    Author: Mohamed
+
+    Date Completed: December 12, 2025
+
+    Technical Focus: This analysis demonstrates that Excel, powered by Power Query for data transformation and DAX for complex modeling, is a highly capable tool for delivering deep Business Intelligence (BI) insights that drive strategic decision-making.
